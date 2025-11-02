@@ -1,0 +1,10 @@
+.filters h2 {
+  margin-bottom: 0.5rem;
+}
+.filters ul {
+  list-style: none;
+  padding: 0;
+}
+.filters li {
+  margin-bottom: 0.5rem;
+}
